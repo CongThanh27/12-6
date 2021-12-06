@@ -1,0 +1,75 @@
+ul { list-style-type: none; margin: 0; padding: 0; margin-bottom: 10px; }
+li { margin: 5px; padding: 5px; width: 150px; }
+.ui-state-highlight{
+    margin: auto;
+    color: rgb(245, 244, 244);
+    font-size: x-large;
+    
+
+}
+.keo{
+    width: 100%;
+    width: 70%;
+    margin: auto;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+.keo div{
+    width: 30%;
+    background-color: cornsilk;
+    border-radius: 10px;
+    height: 100%;
+}
+.keo div p{
+    padding: 10px;
+}
+body{
+    width: 100%;
+    margin: 0px;
+}
+.header{
+    background-color: crimson;
+    padding: 20px 0px;
+    font-size: x-large;
+}
+.toadd{
+    padding: 10px;
+    font-size: medium;
+    margin: 0px 10px;
+    background: rgb(31, 151, 231);
+    border-radius: 10px;   
+    border: none;
+    color: cornsilk;
+    
+}
+.sortable{
+    padding-left: 0px;
+    padding-right: 10px;
+   
+}
+.sortable li {
+   
+    background-color: rgb(224, 86, 120);
+    width: 100%;
+    border-radius: 10px;
+   color: rgb(250, 241, 243);
+   
+   
+}
+.note{
+    color: red;
+   
+}
+.tieude{
+    width: 100%;
+    border-radius: 10px;
+    padding: 5px 3px;
+    background-color: rgb(245, 26, 80);
+    text-align: center;
+    color: cornsilk;
+}
+.tieu{
+    text-align: center;
+   
+    
+}

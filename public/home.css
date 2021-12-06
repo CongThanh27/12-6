@@ -1,0 +1,62 @@
+h1{
+    color: rgb(238, 82, 20);
+    text-align: center;
+   
+}
+img{
+    width: 99%;
+    margin: auto;
+    border-radius: 10px;
+    border: 5px solid black
+}
+body{
+    color: burlywood;
+}
+
+button{
+    color: seashell;
+    background-color: rgb(238, 82, 20);
+    border: 1px solid red;
+    padding: 15px;
+    border-radius: 10px;
+
+    
+}
+.datap{
+    margin: 10px 0px;
+    color: black;
+    
+    border-radius: 10px;
+    background-color: rgb(238, 82, 20);
+    font-size: 50px;
+    border: 5px solid black
+}
+.page{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+    
+}
+.next {
+    color: black;
+    background-color: rgb(240, 235, 233);
+    border: 5px solid rgb(238, 82, 20);
+    padding: 15px;
+    border-radius: 10px;
+    margin: 0px 5px;
+}
+.prev {
+    color: black;
+    background-color: rgb(240, 235, 233);
+    border: 5px solid rgb(238, 82, 20);
+    padding: 15px;
+    border-radius: 10px;
+    margin: 0px 5px;
+}
+.datap div{
+    padding: 0px 30px;
+}
+body{
+    font-family: "Roboto",arial,sans-serif;
+}

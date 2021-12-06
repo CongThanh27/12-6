@@ -1,0 +1,32 @@
+.dangnhap {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+    border: 1px solid red;
+    background-color: salmon;
+    border-radius: 10px;
+}
+input{
+    margin: 10px 10px;
+    padding: 10px 10px;
+    background-color: salmon;
+    border-radius: 10px;
+    border: 1px solid red;
+    color: red;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+button{
+    margin: 10px 10px;
+    background-color: red;
+    color: seashell;
+    border: 1px solid red;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+body{
+    font-family: "Roboto",arial,sans-serif;
+}
